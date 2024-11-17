@@ -1,0 +1,19 @@
+/* Add your custom styles here */
+body {
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa; /* Light gray background for jumbotron */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #f8f9fa; /* Light gray background for footer */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
