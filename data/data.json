@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Product 1",
+      "image": "images/product1.jpeg",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "featured": true
+    },
+    {
+      "name": "Product 2",
+      "image": "images/product1.jpeg",
+      "description": "Another product description.",
+      "featured": false
+    },
+    {
+      "name": "Product 3",
+      "image": "images/product1.jpeg",
+      "description": "This product is featured.",
+      "featured": true
+    }
+  ]
